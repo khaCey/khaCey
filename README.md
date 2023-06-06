@@ -5,8 +5,8 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Shinjuku, Japan
-* ✉️  You can contact me at [info@khaceyslanaitheoir.com](mailto:info@khaceyslanaitheoir.com)
-* 🚀  I'm currently working on [my personal project.](http://mise.khaceyslanaitheoir.com)
+* ✉️  You can contact me at [khacey@slanaitheoir.com](mailto:khacey@slanaitheoir.com)
+* 🚀  I'm currently working on [my personal project.](http://khacey.slanaitheoir.com)
 
 ### Skills
 
